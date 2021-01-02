@@ -1,0 +1,22 @@
+
+<suite name="SeleniumOnlineProject3">
+
+	<test name="Loginmodule">
+		<classes>
+			<class name="com.bitem.seleniumonlineproject3.test.LoginTest" />			
+		</classes>
+	</test>
+	
+	
+	<test name="AssignLeavemodule">
+		<classes>
+			<class name="com.bitem.seleniumonlineproject3.test.AssignLeaveTest" />			
+		</classes>
+	</test>
+	
+	
+	
+	
+	
+
+</suite>
